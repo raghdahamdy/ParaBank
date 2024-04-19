@@ -11,7 +11,7 @@ public class TransferTest extends BaseTest{
     @Test
     public void trnsferfunds (){
         new LoginPage(driver).login("lolihossam","Lucinda@2015").secondlogin("lolihossam","Lucinda@2015").newAccount().accounttype()
-                .ammountt().newaccountbutton().transferlink().TransferFunds("300","15009","15009").finaltransfer();
+                .ammountt().newaccountbutton().transferlink().TransferFunds("300").finaltransfer();
 
         boolean isHeaderDisplayed = driver.findElement(TransferPage.getTransferComplete()).isDisplayed();
         Assert.assertTrue(isHeaderDisplayed);

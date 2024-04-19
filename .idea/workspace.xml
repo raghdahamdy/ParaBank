@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="608c855b-a401-4bdf-8caf-40e3aa16bb85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/EditInfoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/LoanPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/NewAccountPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/PayBillPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/TransferPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test/EditInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test/LoanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test/NewAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test/PayBillTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test/RegisterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test/TransferTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/TransferPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/TransferPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/EditInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/EditInfoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/LoanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/LoanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/PayBillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/PayBillTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/TransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/TransferTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -64,7 +51,7 @@
     &quot;TestNG.PayBillTest.Paybill.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.RegisterTest.validLogin.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.TransferTest.trnsferfunds.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
